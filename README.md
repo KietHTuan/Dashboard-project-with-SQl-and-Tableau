@@ -6,6 +6,8 @@ The stakeholders at an eCommerce enterprise specializing in technology products 
 1. Sales Performance Dashboard (Includes Sales, MonthlySalesGrowth, SalesMovingAverage, OrderCount, OverRunningOrderCount, GlobalSalesValue)
 2. General Performance Dashboard (Includes TransportCost, OrderCount, OverRunnningOrderCount, Running SalesValue, WeeklyFreightGrowth, GlobalFreightCost)
 
-<span style="color:blue"># Dashboard-project-with-SQL-and-Tableau</span>
+*For both of the dashboards, they must:
+1. Have filter options by the year
+2. Contain data for the three years 2017, 2018, 2019 only. 
 
 
