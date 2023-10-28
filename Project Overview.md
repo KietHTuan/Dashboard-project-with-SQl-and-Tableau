@@ -24,8 +24,17 @@ In this project, SQL was utilized for data retrieval and manipulation. Complex S
 
 After retrieving the outcomes from the queries, we transfer the data to an Excel worksheet, which serves as a preparation step for creating visualizations in Tableau
 
-In Tableau, we employ the intuitive drag-and-drop functionality to construct calculated fields and progressively create individual graphs and charts. Additionally, interactive actions are added to enable filtering of data by year. The final step of this process involves assembling all the components into a comprehensive and aesthetic dashboard. 
-(See "Share_Visualizations") 
+In Tableau, we employ the intuitive drag-and-drop functionality to construct calculated fields and progressively create individual graphs and charts. Additionally, interactive actions are added to enable filtering of data by year. The final step of this process involves assembling all the components into a comprehensive and aesthetic dashboard.
+
+Here is the links to our Dashboards:
+
+![Sales Performance](https://public.tableau.com/views/SalesPerformance_16984747516920/SalesPerformance?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+![General Performance](https://public.tableau.com/views/GeneralPerformance_16984748007190/GenearalPerformance?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
+
+
 
 ## Limitations
 The source origin of the dataset is yet to be determined and this could potentially affect its credibility. For improvements, extra steps of checking the data quality have been taken before the analysis.  
