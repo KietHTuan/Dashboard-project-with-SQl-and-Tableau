@@ -3,8 +3,8 @@ This data analysis project encompassed a complete cycle from gathering requireme
 
 ## Problems and Requirements 
 The stakeholders at an eCommerce enterprise specializing in technology products require two dashboards to be built for sales performance tracking:
-1. Sales Performance Dashboard (Includes Sales, MonthlySalesGrowth, SalesMovingAverage, OrderCount, OverRunningOrderCount, GlobalSalesValue)
-2. General Performance Dashboard (Includes TransportCost, OrderCount, OverRunnningOrderCount, Running SalesValue, WeeklyFreightGrowth, GlobalFreightCost)
+1. Sales Performance Dashboard (Includes Sales, MonthlySalesGrowth, SalesMovingAverage, OrderCount, OverRunningOrderCount, AverageCustomerSales, GlobalSalesValue)
+2. General Performance Dashboard (Includes TransportCost, OrderCount, OverRunnningOrderCount, Running SalesValue, WeeklyFreightGrowth, AverageCustomerOrderCount, GlobalFreightCost)
 
 *For both of the dashboards, they must:
 1. Have filter options by the year
