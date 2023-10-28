@@ -28,9 +28,9 @@ In Tableau, we employ the intuitive drag-and-drop functionality to construct cal
 
 Here is the links to our Dashboards:
 
-![Sales Performance](https://public.tableau.com/app/profile/h.ki.t/viz/SalesPerformance_16984747516920/SalesPerformance)
+Sales performance [https://public.tableau.com/app/profile/h.ki.t/viz/SalesPerformance_16984747516920/SalesPerformance]
 
-![General Performance](https://public.tableau.com/app/profile/h.ki.t/viz/GeneralPerformance_16984748007190/GenearalPerformance)
+General Performance [https://public.tableau.com/app/profile/h.ki.t/viz/GeneralPerformance_16984748007190/GenearalPerformance]
 
 
 
