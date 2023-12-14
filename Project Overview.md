@@ -11,7 +11,7 @@ The stakeholders at an eCommerce enterprise specializing in technology products 
 2. Contain data for the three years 2017, 2018, 2019 only. 
 
 ## About the dataset 
-This is the dataset about an eCommerce enterprise product sales provided by dropbox, and even though the origin company information has been anonymized, an assessment of data quality (checking for nulls, outliers, inconsistencies) has been done before the analysis. 
+This is a trainning dataset for Microsoft SQL Server user 2014 from Dropbox about a hypothesized ecommerce company. The dataset includes various tables from Customers, Geolocation and so on. The data model of this dataset created by Paul S.
 You can download the database backup file from this [Dropbox link](https://www.dropbox.com/s/36tizd0u8hwklla/The%20eCommerce%20database%20backup%20for%20SQL%202014%20users.zip?dl=0).
 
 ![Data model](https://user-images.githubusercontent.com/144747702/278792803-9ac88391-1c6d-4d58-a93c-fcec0687f502.png)
